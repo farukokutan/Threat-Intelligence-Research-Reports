@@ -14,7 +14,7 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 
 ## Week 2 - Hunting on the Surface Web
 
-- [CVE-2023-22527 Atlassian Confluence Data Center and Server Template Injection Vulnerability](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-22527%20Atlassian%20Confluence%20Data%20Center%20and%20Server%20Template%20Injection%20Vulnerability.pdf)
+- [CVE-2023-22527 Atlassian Confluence Data Center and Server Template Injection Vulnerability](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-22527%C2%A0Atlassian%20Confluence%20Data%20Center%20and%20Server%20Template%20Injection%20Vulnerability.pdf)
 - [CVE-2023-46805, CVE-2024-21887, CVE-2024-21888 ve CVE-2024-21893](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-46805%2C%20CVE-2024-21887%2C%20CVE-2024-21888%20ve%20CVE-2024-21893.pdf)
 - [MITRE ATT&CK Matrix - CVE-2023-22527 Atlassian Critical Vulnerabilities](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/MITRE%20ATT%26CK%20Matrix%20-%20CVE-2023-22527%20Atlassian%20Critical%20Vulnerabilities.pdf)
 - [MITRE ATT&CK Matrix - CVE-2023-46805, CVE-2024-21887, CVE-2024-21893 ve CVE-2024-21888](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/MITRE%20ATT%26CK%20Matrix%20-%20CVE-2023-46805%2C%20CVE-2024-21887%2C%20CVE-2024-21893%20and%20CVE-2024-21888.pdf)
