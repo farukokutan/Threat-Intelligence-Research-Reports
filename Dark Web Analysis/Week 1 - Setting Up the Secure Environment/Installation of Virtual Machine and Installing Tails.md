@@ -85,6 +85,7 @@ Step 3) Since we will perform a new installation in the first step, we click the
 
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.2.png)
+
 Img 5: Wizard window for creating a new machine installation
 
 
@@ -96,30 +97,35 @@ Step 4) In the next step, to work with the ISO file we downloaded earlier, let's
 
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.3.png)
+
 Img 6: Selection of the file where the operating system will be installed
 
 Step 5) At this stage, considering that the latest version of Tails is based on Debian 12, let's select the version number corresponding to Debian 12. Then proceed.
 
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.4.png)
+
 Img 7: Selection of the operating system type and version
 
 Step 6) At this stage, we need to choose a name for our virtual machine and select where the virtual machine files will be stored. After completing the necessary information, proceed.
 
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.5.png)
+
 Img 8: Selection of the directory where the virtual machine will be saved
 
 
 Step 7) At this stage, we determine the disk size our virtual machine will use. I'm allocating 30 GB of space considering that my system has a 480 GB SSD and taking into account the available space in the system, but you can allocate more or less space. According to my research, the ideal disk size for Tails is 20 GB. However, if it will be used continuously and you have sufficient free space, I recommend allocating 30 - 40 GB. Also, we prefer the "Store virtual disk as a single file" option. In general, selecting the single file option is better for performance and simpler management, so in most cases, choosing the "Store virtual disk as a single file" option would be reasonable.
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.6.png)
+
 Img 9: Determination of the disk capacity to be used by our virtual server
 
 
 Step 8) We are in the final stage of the installation. At this point, optionally, we can increase or decrease some hardware specifications of our virtual server.
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.7.png)
+
 Img 10: Final state of the information and hardware specifications of the virtual server, creation of the virtual machine
 
 
