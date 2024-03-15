@@ -15,7 +15,7 @@ I have downloaded the latest version, [VMware Workstation Pro](https://www.vmwar
 
 When you click on the download link on the website, the download process starts directly. When we run the downloaded file, a User Account Control (UAC) window opens asking whether to allow VMware to make changes to your device. We click the "Yes" button to continue the installation.
 
-![VMware-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.1.png)
+![VMware-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.1.png)
 
 After granting this permission, VMware makes several changes, and then the VMware Workstation Pro Installation Wizard opens. The steps at this stage are quite simple; we can install the software by clicking "Next" in the windows that open.
 
@@ -23,45 +23,45 @@ The installation windows in order:
 
 <center>
 
-![VMware Workstation Pro Installation Wizard initial step](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.2.png)  
+![VMware Workstation Pro Installation Wizard initial step](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.2.png)  
 Img 1: VMware Workstation Pro Installation Wizard initial step
 
-![Acceptance step of the End User License Agreement](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.3.png)
+![Acceptance step of the End User License Agreement](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.3.png)
 Img 2: Acceptance step of the End User License Agreement
 
 </center>
 
 
 
-![VMware-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.4.png)
+![VMware-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.4.png)
 
 In the "User Experience Settings" step of VMware Workstation Pro installation, it concerns checking for product updates and the VMware Customer Experience Improvement Program. The options in this step are optional, and you can proceed with the default settings.
 
-![VMware-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.5.png)
+![VMware-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.5.png)
 
 In the "Shortcuts" step of VMware Workstation Pro installation, we can choose to create a shortcut in the start menu and on the desktop.
 
 <center>
 
-![Ready to complete the VMware Workstation Pro installation step](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.6.png)
+![Ready to complete the VMware Workstation Pro installation step](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.6.png)
 Img 3: Ready to complete the VMware Workstation Pro installation step
 
 </center>
 
-![VMware-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.7.png)
+![VMware-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.7.png)
 
 In the final step of the Installation Wizard, a license key is requested. Since we will use the trial version, we click the "Finish" button to complete the installation.
 
 Finally, when we run the software, the Workstation Pro 17 screen appears.
 
-![VMware-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/VMware-Installation.8.png)
+![VMware-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/VMware-Installation.8.png)
 
 Additionally, since the installation of VMware Workstation Pro and VMware Workstation Player progresses similarly, I haven't prepared a separate installation document for Player.
 
 <center>
 
 <<<<<<< HEAD
-![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/tt/releases/download/V1.0/Pro-vs-Player.png)
+![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Pro-vs-Player.png)
 =======
 ![Interface screens of VMware Workstation Pro and VMware Workstation Player]([images](/releases/download/V1.0/pro-vs-player.png)/Pro-vs-Player.png)
 >>>>>>> ed4e07ef5b5e92882b7f57a73179497957b01031
@@ -75,21 +75,21 @@ Tails, compared to other Linux operating systems, is a Linux operating system fo
 
 The [official Tails website](https://tails.net/install/index.en.html) provides documentation on how to install Tails on Windows, MacOS, Linux, and via Terminal. Additionally, the documentation includes information on [running Tails in virtual machines](https://tails.net/install/vm/index.en.html), which is what we will do today.
 
-![Tails-Web](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Web.1.png)
+![Tails-Web](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Web.1.png)
 
 Step 1) Firstly, we download the latest version. I downloaded version 6.0 while preparing this guide.
 
-![Tails-Web](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Web.2.png)
+![Tails-Web](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Web.2.png)
 
 Step 2) As seen in the document, there is a simple installation process. After verifying and obtaining approval in the verification area in step 2, we open the virtualization software we will use for the installation process.
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.1.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.1.png)
 
 Step 3) Since we will perform a new installation in the first step, we click the "Create a New Virtual Machine" button on the main screen. This will start the virtual machine creation wizard. Since we don't need to make a detailed setup at this stage, we proceed by selecting the "Typical (recommended)" option.
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.2.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.2.png)
 Img 5: Wizard window for creating a new machine installation
 
 </center>
@@ -102,7 +102,7 @@ Step 4) In the next step, to work with the ISO file we downloaded earlier, let's
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.3.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.3.png)
 Img 6: Selection of the file where the operating system will be installed
 
 </center>
@@ -111,7 +111,7 @@ Step 5) At this stage, considering that the latest version of Tails is based on 
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.4.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.4.png)
 Img 7: Selection of the operating system type and version
 
 </center>
@@ -121,7 +121,7 @@ Step 6) At this stage, we need to choose a name for our virtual machine and sele
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.5.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.5.png)
 Img 8: Selection of the directory where the virtual machine will be saved
 
 </center>
@@ -130,7 +130,7 @@ Step 7) At this stage, we determine the disk size our virtual machine will use. 
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.6.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.6.png)
 Img 9: Determination of the disk capacity to be used by our virtual server
 
 </center>
@@ -139,7 +139,7 @@ Step 8) We are in the final stage of the installation. At this point, optionally
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.7.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.7.png)
 Img 10: Final state of the information and hardware specifications of the virtual server, creation of the virtual machine
 
 </center>
@@ -148,9 +148,9 @@ I'm increasing the memory size from 2048 MB to 4096 MB. We can change these valu
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.8.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.8.png)
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.9.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.9.png)
 
 </center>
 
@@ -158,7 +158,7 @@ Step 9) After determining all the information and hardware specifications, we fi
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.10.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.10.png)
 
 </center>
 
@@ -166,9 +166,9 @@ Step 10) The options "Tails" and "Tails (Troubleshooting Mode)" represent differ
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.11.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.11.png)
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.12.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.12.png)
 
 </center>
 
@@ -176,7 +176,7 @@ Step 11) In the window that opens, in the "Language and Region" section of the T
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.13.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.13.png)
 
 </center>
 
@@ -184,9 +184,9 @@ Step 12) At this stage, two options regarding the tor connection are provided. I
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.14.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.14.png)
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.15.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.15.png)
 
 </center>
 
@@ -194,9 +194,9 @@ Step 13) And now Tails is ready to use. We can start using it by launching the T
 
 <center>
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.16.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.16.png)
 
-![Tails-Installation](https://github.com/farukokutan/tt/releases/download/V1.0/Tails-Installation.17.png)
+![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.17.png)
 
 </center>
 
