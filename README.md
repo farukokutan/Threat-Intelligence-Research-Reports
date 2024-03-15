@@ -6,6 +6,7 @@ This repository contains reports prepared to learn CTI covering the latest metho
 Each week, the information is dedicated to specific tasks aimed at improving threat detection, analysis, and mitigation capabilities.
 
 ### Month 1: Current Threat Landscape
+
 #### Week 1 - Sharpening the Knives
 
 - [Analysis of Trellix Reports with SonicWall](Current%20Threat%20Landscape/Week%201%20-%20Sharpening%20the%20Knives/Analysis%20of%20Trellix%20Reports%20with%20SonicWall.pdf)
@@ -15,19 +16,11 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 
 #### Week 2 - Hunting on the Surface Web
 
-<<<<<<< HEAD
 - [CVE-2023-22527 Atlassian Confluence Data Center and Server Template Injection Vulnerability](Current%20Threat%20Landscape/Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-22527%20Atlassian%20Confluence%20Data%20Center%20and%20Server%20Template%20Injection%20Vulnerability.pdf)
 - [CVE-2023-46805, CVE-2024-21887, CVE-2024-21888 ve CVE-2024-21893](Current%20Threat%20Landscape/Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-46805%2C%20CVE-2024-21887%2C%20CVE-2024-21888%20ve%20CVE-2024-21893.pdf)
 - [MITRE ATT&CK Matrix - CVE-2023-22527 Atlassian Critical Vulnerabilities](Current%20Threat%20Landscape/Week%202%20-%20Hunting%20on%20the%20Surface%20Web/MITRE%20ATT%26CK%20Matrix%20-%20CVE-2023-22527%20Atlassian%20Critical%20Vulnerabilities.pdf)
 - [MITRE ATT&CK Matrix - CVE-2023-46805, CVE-2024-21887, CVE-2024-21893 ve CVE-2024-21888](Current%20Threat%20Landscape/Week%202%20-%20Hunting%20on%20the%20Surface%20Web/MITRE%20ATT%26CK%20Matrix%20-%20CVE-2023-46805%2C%20CVE-2024-21887%2C%20CVE-2024-21893%20and%20CVE-2024-21888.pdf)
 - [Threat Prioritization List](Current%20Threat%20Landscape/Week%202%20-%20Hunting%20on%20the%20Surface%20Web/Threat%20Prioritization%20List.pdf)
-=======
-- [CVE-2023-22527 Atlassian Confluence Data Center and Server Template Injection Vulnerability](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-22527%C2%A0Atlassian%20Confluence%20Data%20Center%20and%20Server%20Template%20Injection%20Vulnerability.pdf)
-- [CVE-2023-46805, CVE-2024-21887, CVE-2024-21888 ve CVE-2024-21893](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/CVE-2023-46805%2C%20CVE-2024-21887%2C%20CVE-2024-21888%20ve%20CVE-2024-21893.pdf)
-- [MITRE ATT&CK Matrix - CVE-2023-22527 Atlassian Critical Vulnerabilities](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/MITRE%20ATT%26CK%20Matrix%20-%20CVE-2023-22527%20Atlassian%20Critical%20Vulnerabilities.pdf)
-- [MITRE ATT&CK Matrix - CVE-2023-46805, CVE-2024-21887, CVE-2024-21893 ve CVE-2024-21888](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/MITRE%20ATT%26CK%20Matrix%20-%20CVE-2023-46805%2C%20CVE-2024-21887%2C%20CVE-2024-21893%20and%20CVE-2024-21888.pdf)
-- [Threat Prioritization List](Week%202%20-%20Hunting%20on%20the%20Surface%20Web/Threat%20Prioritization%20List.pdf)
->>>>>>> 56216ead0bbc9586645d3ed39fe0b25a55df5659
 
 #### Week 3 - Deep Dive and Intelligence Fusion
 
@@ -36,7 +29,6 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 
 #### Week 4 - Advanced Threat Hunting and Template Creation
 
-<<<<<<< HEAD
 - [CVE-2023-22527 Vulnerability and Automatic Detection in Atlassian Confluence](Current%20Threat%20Landscape/Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence)
   - [confluence_verison.py](Current%20Threat%20Landscape/Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence/confluence_verison.py)
   - [CVE-2023-22527 Vulnerability Detection in Atlassian Confluence.pdf](Current%20Threat%20Landscape/Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence/CVE-2023-22527%20Vulnerability%20Detection%20in%20Atlassian%20Confluence.pdf)
@@ -52,17 +44,3 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 - [Installation of Virtual Machine and Installing Tails](Dark%20Web%20Analysis/Week%201%20-%20Setting%20Up%20the%20Secure%20Environment/Installation%20of%20Virtual%20Machine%20and%20Installing%20Tails.md)
 - [Linux Commands](Dark%20Web%20Analysis/Week%201%20-%20Setting%20Up%20the%20Secure%20Environment/Linux%20Commands.pdf)
 - [VM Network Settings Used for Tails](Dark%20Web%20Analysis/Week%201%20-%20Setting%20Up%20the%20Secure%20Environment/VM%20Network%20Settings%20Used%20for%20Tails.md)
-
-### Week 2 - Exploring the Dark Web Safely
-
-### Week 3 - Ethical Considerations and Legal Implications
-=======
-- [CVE-2023-22527 Vulnerability and Automatic Detection in Atlassian Confluence](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence)
-  - [confluence_verison.py](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence/confluence_verison.py)
-  - [CVE-2023-22527 Vulnerability Detection in Atlassian Confluence.pdf](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence/CVE-2023-22527%20Vulnerability%20Detection%20in%20Atlassian%20Confluence.pdf)
-  - [CVE-2023-22527.yaml](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence/CVE-2023-22527.yaml) [(source: ProjectDiscovery)](https://blog.projectdiscovery.io/atlassian-confluence-ssti-remote-code-execution/)
-  - [vulnerability_check.py](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/CVE-2023-22527%20Vulnerability%20and%20Automatic%20Detection%20in%20Atlassian%20Confluence/vulnerability_check.py)
-- [Customized Threat Analysis Template](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/Customized%20Threat%20Analysis%20Template.pdf)
-- [Open-source Tool Report - Maltego](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/Open-source%20Tool%20Report%20-%20Maltego.pdf)
-- [Threat Intelligence Presentation](Week%204%20-%20Advanced%20Threat%20Hunting%20and%20Template%20Creation/Threat%20Intelligence%20Presentation.pdf)
->>>>>>> 56216ead0bbc9586645d3ed39fe0b25a55df5659
