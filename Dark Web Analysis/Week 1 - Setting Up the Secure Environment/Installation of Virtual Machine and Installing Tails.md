@@ -61,6 +61,7 @@ Additionally, since the installation of VMware Workstation Pro and VMware Workst
 <center>
 
 ![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/pro-vs-player.png)
+
 Img 4:Interface screens of VMware Workstation Pro and VMware Workstation Player
 
 </center>
@@ -83,11 +84,13 @@ Step 2) As seen in the document, there is a simple installation process. After v
 
 Step 3) Since we will perform a new installation in the first step, we click the "Create a New Virtual Machine" button on the main screen. This will start the virtual machine creation wizard. Since we don't need to make a detailed setup at this stage, we proceed by selecting the "Typical (recommended)" option.
 
+<center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.2.png)
 
 Img 5: Wizard window for creating a new machine installation
 
+</center>
 
 Step 4) In the next step, to work with the ISO file we downloaded earlier, let's select "Installer disk image file (ISO)". By clicking the "Browse" button, navigate to the location of the downloaded ISO file and select the "tails-amd64-6.0.iso" file. Then proceed.
 
@@ -95,39 +98,54 @@ Step 4) In the next step, to work with the ISO file we downloaded earlier, let's
 📌 The option we choose here helps us to perform an easy installation. If we want to perform a customized installation, select the "I will install the operating system later" option during the creation process. This will skip the Easy Install process and allow you to customize settings during installation.
 </aside>
 
+<center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.3.png)
 
 Img 6: Selection of the file where the operating system will be installed
 
+</center>
+
 Step 5) At this stage, considering that the latest version of Tails is based on Debian 12, let's select the version number corresponding to Debian 12. Then proceed.
 
+<center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.4.png)
 
 Img 7: Selection of the operating system type and version
 
+</center>
+
 Step 6) At this stage, we need to choose a name for our virtual machine and select where the virtual machine files will be stored. After completing the necessary information, proceed.
 
+
+<center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.5.png)
 
 Img 8: Selection of the directory where the virtual machine will be saved
 
+</center>
 
 Step 7) At this stage, we determine the disk size our virtual machine will use. I'm allocating 30 GB of space considering that my system has a 480 GB SSD and taking into account the available space in the system, but you can allocate more or less space. According to my research, the ideal disk size for Tails is 20 GB. However, if it will be used continuously and you have sufficient free space, I recommend allocating 30 - 40 GB. Also, we prefer the "Store virtual disk as a single file" option. In general, selecting the single file option is better for performance and simpler management, so in most cases, choosing the "Store virtual disk as a single file" option would be reasonable.
+
+<center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.6.png)
 
 Img 9: Determination of the disk capacity to be used by our virtual server
 
+</center>
 
 Step 8) We are in the final stage of the installation. At this point, optionally, we can increase or decrease some hardware specifications of our virtual server.
+
+<center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.7.png)
 
 Img 10: Final state of the information and hardware specifications of the virtual server, creation of the virtual machine
 
+</center>
 
 I'm increasing the memory size from 2048 MB to 4096 MB. We can change these values later if we want. Also, in the network adapter selection, I prefer the "NAT" mode. This mode allows our virtual machine to share internet access with your host computer but cannot communicate directly with other devices. This can help your virtual machine connect to the internet more securely.
 
