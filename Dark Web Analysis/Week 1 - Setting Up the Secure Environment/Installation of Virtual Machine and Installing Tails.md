@@ -60,12 +60,7 @@ Additionally, since the installation of VMware Workstation Pro and VMware Workst
 
 <center>
 
-<<<<<<< HEAD
 ![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/pro-vs-player.png)
-=======
-![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Pro-vs-Player.png)
-![Interface screens of VMware Workstation Pro and VMware Workstation Player]([images](/releases/download/V1.0/pro-vs-player.png)/Pro-vs-Player.png)
->>>>>>> 96028a407207d86ad98f676c576f2edd04e655fa
 Img 4:Interface screens of VMware Workstation Pro and VMware Workstation Player
 
 </center>
