@@ -44,3 +44,8 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 - [Installation of Virtual Machine and Installing Tails](Dark%20Web%20Analysis/Week%201%20-%20Setting%20Up%20the%20Secure%20Environment/Installation%20of%20Virtual%20Machine%20and%20Installing%20Tails.md)
 - [Linux Commands](Dark%20Web%20Analysis/Week%201%20-%20Setting%20Up%20the%20Secure%20Environment/Linux%20Commands.pdf)
 - [VM Network Settings Used for Tails](Dark%20Web%20Analysis/Week%201%20-%20Setting%20Up%20the%20Secure%20Environment/VM%20Network%20Settings%20Used%20for%20Tails.md)
+
+#### Week 2 - Exploring the Dark Web Safely
+
+- [Dark Web Resources Key Characteristics & Technology - Mind Map](Dark%20Web%20Analysis/Week%202%20-%20Exploring%20the%20Dark%20Web%20Safely/Dark%20Web%20Resources%20Key%20Characteristics%20&%20Technology%20-%20Mind%20Map.pdf)
+- [Safe Exploration of the Dark Web Screenshots and Report on Encountered Resources](Dark%20Web%20Analysis/Week%202%20-%20Exploring%20the%20Dark%20Web%20Safely/Safe%20Exploration%20of%20the%20Dark%20Web%20Screenshots%20and%20Report%20on%20Encountered%20Resources.pdf)
