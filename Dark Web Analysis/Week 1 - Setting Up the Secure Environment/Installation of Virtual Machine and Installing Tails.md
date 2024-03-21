@@ -60,12 +60,8 @@ Additionally, since the installation of VMware Workstation Pro and VMware Workst
 
 <center>
 
-<<<<<<< HEAD
 ![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/pro-vs-player.png)
-=======
-![Interface screens of VMware Workstation Pro and VMware Workstation Player](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Pro-vs-Player.png)
-![Interface screens of VMware Workstation Pro and VMware Workstation Player]([images](/releases/download/V1.0/pro-vs-player.png)/Pro-vs-Player.png)
->>>>>>> 96028a407207d86ad98f676c576f2edd04e655fa
+
 Img 4:Interface screens of VMware Workstation Pro and VMware Workstation Player
 
 </center>
@@ -91,6 +87,7 @@ Step 3) Since we will perform a new installation in the first step, we click the
 <center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.2.png)
+
 Img 5: Wizard window for creating a new machine installation
 
 </center>
@@ -104,6 +101,7 @@ Step 4) In the next step, to work with the ISO file we downloaded earlier, let's
 <center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.3.png)
+
 Img 6: Selection of the file where the operating system will be installed
 
 </center>
@@ -113,6 +111,7 @@ Step 5) At this stage, considering that the latest version of Tails is based on 
 <center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.4.png)
+
 Img 7: Selection of the operating system type and version
 
 </center>
@@ -123,6 +122,7 @@ Step 6) At this stage, we need to choose a name for our virtual machine and sele
 <center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.5.png)
+
 Img 8: Selection of the directory where the virtual machine will be saved
 
 </center>
@@ -132,6 +132,7 @@ Step 7) At this stage, we determine the disk size our virtual machine will use. 
 <center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.6.png)
+
 Img 9: Determination of the disk capacity to be used by our virtual server
 
 </center>
@@ -141,6 +142,7 @@ Step 8) We are in the final stage of the installation. At this point, optionally
 <center>
 
 ![Tails-Installation](https://github.com/farukokutan/Threat-Intelligence-Research-Reports/releases/download/V1.0/Tails-Installation.7.png)
+
 Img 10: Final state of the information and hardware specifications of the virtual server, creation of the virtual machine
 
 </center>
