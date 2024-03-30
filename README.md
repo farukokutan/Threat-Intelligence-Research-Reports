@@ -49,3 +49,9 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 
 - [Dark Web Resources Key Characteristics & Technology - Mind Map](Dark%20Web%20Analysis/Week%202%20-%20Exploring%20the%20Dark%20Web%20Safely/Dark%20Web%20Resources%20Key%20Characteristics%20&%20Technology%20-%20Mind%20Map.pdf)
 - [Safe Exploration of the Dark Web Screenshots and Report on Encountered Resources](Dark%20Web%20Analysis/Week%202%20-%20Exploring%20the%20Dark%20Web%20Safely/Safe%20Exploration%20of%20the%20Dark%20Web%20Screenshots%20and%20Report%20on%20Encountered%20Resources.pdf)
+
+#### Week 3 - Ethical Considerations and Legal Implications
+
+- [Laws and Regulations on the Dark Web](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Laws%20and%20Regulations%20on%20the%20Dark%20Web.pdf)
+- [Potential Consequences of Dark Web Interaction](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Potential%20Consequences%20of%20Dark%20Web%20Interaction.pdf)
+- [Risk mitigation strategies for secure Dark Web exploration](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Risk%20mitigation%20strategies%20for%20secure%20Dark%20Web%20exploration.pdf)
