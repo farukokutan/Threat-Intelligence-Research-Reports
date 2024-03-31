@@ -55,3 +55,4 @@ Each week, the information is dedicated to specific tasks aimed at improving thr
 - [Laws and Regulations on the Dark Web](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Laws%20and%20Regulations%20on%20the%20Dark%20Web.pdf)
 - [Potential Consequences of Dark Web Interaction](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Potential%20Consequences%20of%20Dark%20Web%20Interaction.pdf)
 - [Risk mitigation strategies for secure Dark Web exploration](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Risk%20mitigation%20strategies%20for%20secure%20Dark%20Web%20exploration.pdf)
+- [Report Summarising The Case Analysis And Key Takeaways](Dark%20Web%20Analysis/Week%203%20-%20Ethical%20Considerations%20and%20Legal%20Implications/Report%20Summarising%20The%20Case%20Analysis%20And%20Key%20Takeaways.pdf)
